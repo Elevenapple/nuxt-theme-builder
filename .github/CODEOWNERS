@@ -1,0 +1,34 @@
+# CODEOWNERS
+
+# These owners will be requested for review when someone opens a pull request.
+
+# Order matters - later patterns override earlier ones.
+
+# Default owner for everything
+
+- @Elevenapple
+
+# Core theme system
+
+app/stores/theme.ts @Elevenapple
+app/types/theme.ts @Elevenapple
+app/composables/useThemeApply.ts @Elevenapple
+app/composables/useThemeExport.ts @Elevenapple
+
+# AI features
+
+app/pages/ai.vue @Elevenapple
+app/types/ai.ts @Elevenapple
+server/api/ai/ @Elevenapple
+
+# CI/CD and infrastructure
+
+.github/ @Elevenapple
+nuxt.config.ts @Elevenapple
+playwright.config.ts @Elevenapple
+vitest.config.ts @Elevenapple
+
+# Documentation
+
+\*.md @Elevenapple
+content/ @Elevenapple
