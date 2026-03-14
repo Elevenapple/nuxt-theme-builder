@@ -198,6 +198,7 @@ Run `pnpm changelog` to preview or `pnpm release` to bump version locally.
 ### ❤️ Contributors
 
 - Elevenapple <elevenapple4@gmail.com>
+- Elevenapple <elevenapple4@gmail.com>
 
 ## v1.3.1
 
